@@ -17,7 +17,7 @@ Follow these instructions to set up the project on your local machine for develo
 1. **Clone the Repository**:
    Clone this repository to your local machine using:
    ```bash
-   https://github.com/EmonZaman/facebook-video-downloader-api
+   git clone https://github.com/EmonZaman/facebook-video-downloader-api
    ```
 
 2. **Install Dependencies**:
